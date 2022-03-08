@@ -2,7 +2,8 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- How to reach me ...
+- 📫 My Email is vitalik1@hotmail.it
 
 <!---
 LikeaGokuLight/LikeaGokuLight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
